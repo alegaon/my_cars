@@ -1,0 +1,4 @@
+git clone
+python -m venv .virtualenvs/mycars
+source ~/.virtual
+pip install Django==4.1.3
